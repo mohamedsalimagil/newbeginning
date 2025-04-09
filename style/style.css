@@ -1,0 +1,14 @@
+html {
+  background-color: lightskyblue;
+  font-size: 20px;
+}
+
+ul {
+  background: aqua;
+  padding: 10px;
+  border: 1px solid blue;
+}
+
+li {
+  margin-left: 15px;
+}
